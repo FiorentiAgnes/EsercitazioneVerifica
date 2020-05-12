@@ -1,6 +1,5 @@
 //copia github
 /** 
-//modifica da github
  * <u>CLASSE TRAPEZIO</u>
  * 
  * @author <mark>Fiorentino Agnese
