@@ -23,7 +23,7 @@ public Trapezio(float bMag,float bMin,float h) {
  * @return area del trapezio
  */
 public float areaTrapezio() {
-	return (bMaggiore+bMinore)*altezza/3;    //errore nella formula
+	return (bMaggiore+bMinore)*altezza/2;    //errore risolto
 }
 /**
  * Classe test main
