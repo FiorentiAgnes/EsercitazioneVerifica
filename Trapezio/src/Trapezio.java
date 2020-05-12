@@ -1,4 +1,4 @@
-//copia su github
+//copia github
 /**
  * <u>CLASSE TRAPEZIO</u>
  * 
